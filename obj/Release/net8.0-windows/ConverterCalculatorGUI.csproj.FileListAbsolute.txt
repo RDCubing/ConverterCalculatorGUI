@@ -1,0 +1,14 @@
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\bin\Release\net8.0-windows\ConverterCalculatorGUI.exe
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\bin\Release\net8.0-windows\ConverterCalculatorGUI.deps.json
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\bin\Release\net8.0-windows\ConverterCalculatorGUI.runtimeconfig.json
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\bin\Release\net8.0-windows\ConverterCalculatorGUI.dll
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\bin\Release\net8.0-windows\ConverterCalculatorGUI.pdb
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\ConverterCalculatorGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\ConverterCalculatorGUI.AssemblyInfoInputs.cache
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\ConverterCalculatorGUI.AssemblyInfo.cs
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\ConverterCalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\ConverterCalculatorGUI.dll
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\refint\ConverterCalculatorGUI.dll
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\ConverterCalculatorGUI.pdb
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\ConverterCalculatorGUI.genruntimeconfig.cache
+C:\Users\Andrew Simson\Documents\ConverterCalculatorGUI\obj\Release\net8.0-windows\ref\ConverterCalculatorGUI.dll
