@@ -54,4 +54,21 @@ A lightweight Windows application combining a **scientific calculator** and a **
 ---
 
 ## Future Updates
-- M
+- More scientific functions (e.g., factorial, exponentiation)  
+- Additional currencies for conversion  
+- Custom themes and UI improvements  
+- Single-file release or optimized installer  
+
+---
+
+## Contributing
+- This project is **open source**. Feel free to fork, report issues, or submit pull requests.  
+
+---
+
+## License
+- MIT License  
+- Built with **C# WinForms** and **.NET 8.0**
+
+---
+
